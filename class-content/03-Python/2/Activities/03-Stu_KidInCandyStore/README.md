@@ -21,3 +21,7 @@ In this activity, you are creating the code a candy store will use in their stat
 ### Bonus
 
 * Create a version of the same code which allows a user to select as much candy as they want up until they say they do not want any more.
+
+### Copyright
+
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

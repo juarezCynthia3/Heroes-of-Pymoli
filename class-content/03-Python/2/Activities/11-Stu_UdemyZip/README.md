@@ -2,7 +2,7 @@
 
 ## Instructions
 
-* Create a Python application that reads the data on Udemy Web Development offerings. 
+* Create a Python application that reads the data on Udemy Web Development offerings.
 
 * Then store the contents of the Title, Price, Subscriber Count, Number of Reviews, and Course Length into Python Lists.
 
@@ -21,3 +21,7 @@
 * Find the percent of subscribers that have also left a review on the course. Include this in your final output.
 
 * Parse the string associated with course length, such that we store it as an integer instead of a string. (i.e. "4 hours" should be converted to 4).
+
+### Copyright
+
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
